@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="untitled1" targetName="Z_DUMMY_TARGET" />
+      <config projectName="untitled1" targetName="Debug" />
+      <config projectName="untitled1" targetName="Production" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="esp32dev" ENABLED="true" CONFIG_NAME="esp32dev" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f94b378-3bbf-4ab4-9546-01d1b97059b4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:esp32dev" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1.1" />
+  </component>
+  <component name="ProjectId" id="29lcXdLojMJ7h9G9KWhRGEV8QOx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="PlatformIO.PlatformIO Upload">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Z_DUMMY_TARGET" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="Z_DUMMY_TARGET" CONFIG_NAME="esp32dev" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="Z_DUMMY_TARGET">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlatformIO Debug" type="platformio" factoryName="PlatformIO Debug" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="Debug" CONFIG_NAME="esp32dev" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="Debug">
+      <method v="2" />
+    </configuration>
+    <configuration name="PlatformIO Upload" type="platformio" factoryName="PlatformIO Upload" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="Production" CONFIG_NAME="esp32dev" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="Production">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Z_DUMMY_TARGET" />
+      <item itemvalue="PlatformIO.PlatformIO Debug" />
+      <item itemvalue="PlatformIO.PlatformIO Upload" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f94b378-3bbf-4ab4-9546-01d1b97059b4" name="Changes" comment="" />
+      <created>1653691153962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653691153962</updated>
+      <workItem from="1653691155273" duration="1089000" />
+      <workItem from="1653692348275" duration="89000" />
+      <workItem from="1653692467492" duration="426000" />
+      <workItem from="1653695456043" duration="3783000" />
+      <workItem from="1653840712456" duration="691000" />
+      <workItem from="1653908783679" duration="2314000" />
+      <workItem from="1653912233294" duration="924000" />
+      <workItem from="1653915777503" duration="4930000" />
+      <workItem from="1653937934816" duration="1963000" />
+      <workItem from="1654205375755" duration="10000" />
+      <workItem from="1655568786474" duration="27000" />
+      <workItem from="1656408326712" duration="32000" />
+      <workItem from="1656408404208" duration="93000" />
+      <workItem from="1657869421930" duration="119000" />
+      <workItem from="1658479710618" duration="228000" />
+      <workItem from="1658907129435" duration="30000" />
+      <workItem from="1658907181454" duration="18000" />
+      <workItem from="1660916253893" duration="329000" />
+      <workItem from="1660917247038" duration="383000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
